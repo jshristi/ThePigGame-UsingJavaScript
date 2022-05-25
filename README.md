@@ -1,6 +1,9 @@
 # ThePigGame-UsingJavaScript
 Made this game to recap the fundamentals of DOM manipulation using the JavaScript.
 The game's flow is described in the flow-chart below:
+
+The UI and functioning is in the below snapshots:
+
 ![Screenshot (975)](https://user-images.githubusercontent.com/97890808/170216563-4c2d34d0-baef-4c8c-8d98-ae27723ba33e.png)
 ![Screenshot (976)](https://user-images.githubusercontent.com/97890808/170216577-e38f26ac-9875-47ba-acfb-42883551f55c.png)
 ![Screenshot (977)](https://user-images.githubusercontent.com/97890808/170216578-8b363c07-bcc3-41dc-b636-b46cc246209c.png)
