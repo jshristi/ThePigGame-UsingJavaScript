@@ -2,6 +2,10 @@
 Made this game to recap the fundamentals of DOM manipulation using the JavaScript.
 The game's flow is described in the flow-chart below:
 
+
+![Screenshot (980)](https://user-images.githubusercontent.com/97890808/170217352-0add3aa7-6fd1-4c0e-a043-e190c4bf3b4c.png)
+
+
 The UI and functioning is in the below snapshots:
 
 ![Screenshot (975)](https://user-images.githubusercontent.com/97890808/170216563-4c2d34d0-baef-4c8c-8d98-ae27723ba33e.png)
